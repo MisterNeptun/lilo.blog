@@ -1,7 +1,7 @@
 +++
 title = "Zerstört sich die Amerikanische Demokratie selbst?"
 date = "2023-05-27"
-draft = true
+draft = false
 pinned = false
 +++
 {{<lead>}}
