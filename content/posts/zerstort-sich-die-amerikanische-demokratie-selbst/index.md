@@ -6,7 +6,7 @@ pinned = false
 +++
 {{<lead>}}
 
-Die amerikanische Demokratie ist die älteste, noch existierende Demokratie der Welt. Sie wurde 1776 mit der Unabhängigkeitserklärung gegründet. Sie setzt sich schon in dieser Zeit für Menschenrechte ein oder später gegen Sklaverei, doch heute steht diese Demokratie vor dem Abgrund. In dieser Reportage soll Ihnen aufgezeigt werden, wie es so weit kommen konnte und wie nahe sie wirklich von diesem Abgrund entfernt ist. 
+Die amerikanische Demokratie gilt als die älteste noch existierende Demokratie der Welt. Ihre Ursprünge reichen zurück bis zur Gründung im Jahr 1776 mit der Verabschiedung der Unabhängigkeitserklärung. Schon damals setzte sie sich für die Achtung der Menschenrechte ein. Doch heute steht sie vor neuen Herausforderungen. In dieser Reportage soll untersucht werden, was diese Herausforderungen sind und wie bedrohlich die gegenwärtige Lage für die Demokratie in den Vereinigten Staaten wirklich ist.
 
 {{</lead>}}
 
