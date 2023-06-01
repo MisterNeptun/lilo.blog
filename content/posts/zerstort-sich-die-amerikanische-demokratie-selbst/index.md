@@ -3,6 +3,7 @@ title = "Zerstört sich die Amerikanische Demokratie selbst?"
 date = "2023-05-27"
 draft = false
 pinned = false
+footnotes = "*Name auf Wunsch geändert, Name den Autoren bekannt"
 +++
 {{<lead>}}
 
@@ -69,4 +70,3 @@ All diese Probleme summiert, ergeben eine tickende Zeitbombe. Die Frage ist wohl
 
 
 
-*Name auf Wunsch geändert, Name den Autoren bekannt
