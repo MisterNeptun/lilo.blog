@@ -10,7 +10,7 @@ Die amerikanische Demokratie gilt als die älteste noch existierende Demokratie 
 
 {{</lead>}}
 
-Rachel Anderson (Name wurde auf Wunsch geändert) lebt nun schon seit über 20 Jahren in Basel und kommt ursprünglich aus den USA. Sie hört jeden Tag amerikanische Nachrichten. Die News, welche man in der letzten Zeit immer wieder lesen konnte, schockieren sie sehr, einerseits weil es um ihr Heimatsland geht und andererseits weil noch ein Teil ihrer Familie in den USA lebt. Wir konnten Sie an einem Dienstagnachmittag interviewen. 
+Rachel Anderson* lebt nun schon seit über 20 Jahren in Basel und kommt ursprünglich aus den USA. Sie hört jeden Tag amerikanische Nachrichten. Die News, welche man in der letzten Zeit immer wieder lesen konnte, schockieren sie sehr, einerseits weil es um ihr Heimatsland geht und andererseits weil noch ein Teil ihrer Familie in den USA lebt. Wir konnten Sie an einem Dienstagnachmittag interviewen. 
 
 Am Anfang des Interviews sprachen wir mit Rachel Anderson vor allem über das politische System der USA. Rachel Anderson sagte, dass sie das politische System der Schweiz besser fände. Auch auf die Frage, was den Vorteile des amerikanischen Politsystems wären, zeichnete die Antwort ein ähnliches Bild.
 
@@ -64,3 +64,9 @@ Dies nennt man diese Radikalisierung. Mit dem obigen Beispiel wird wohl klar, da
 
 
 Dies könnte den USA auch mal grössere Probleme bereiten. Dies macht auch Rachel Anderson grosse Sorgen. Das schlimmste Szenario, welches sie sich ausmalen könnte, wäre sogar einen Bürgerkrieg. Am Schluss des Gespräches betonnte sie noch einmal, dass die Leute in den USA eigentlich ganz nett seien, aber dass es eben überall Spinner gäbe. Doch sie hofft, dass es in ihrer Heimat, wo noch ein Teil ihrer Familie lebt, nie so weit kommen wird.
+
+
+
+
+
+*Name auf Wunsch geändert, Name den Autoren bekannt
