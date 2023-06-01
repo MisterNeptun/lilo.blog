@@ -63,7 +63,7 @@ Dies nennt man diese Radikalisierung. Mit dem obigen Beispiel wird wohl klar, da
 
 
 
-All diese Probleme summiert, ergeben eine tickende Zeitbombe. Die Frage ist wohl nicht, ob sondern wann es eskaliert, falls die USA sich nicht aufraffen können um ihr mediales und politisches System massiv umzubauen. Dies macht auch Rachel Anderson grosse Sorgen. Das schlimmste Szenario, welches sie sich ausmalen könnte, wäre ein Bürgerkrieg. Am Schluss des Gespräches betonnte sie noch einmal, dass die Leute in den USA eigentlich ganz nett seien, aber dass es eben überall Spinner gäbe. Doch sie hofft, dass es in ihrer Heimat, wo noch ein Teil ihrer Familie lebt, nie so weit kommen wird.
+All diese Probleme summiert, ergeben eine tickende Zeitbombe. Die Frage ist wohl nicht, ob sondern wann es eskaliert, falls die USA sich nicht aufraffen können, um ihr mediales und politisches System massiv umzubauen. Dies macht auch Rachel Anderson grosse Sorgen. Das schlimmste Szenario, welches sie sich ausmalen könnte, wäre ein Bürgerkrieg. Am Schluss des Gespräches betonnte sie noch einmal, dass die Leute in den USA eigentlich ganz nett seien, aber dass es eben überall Spinner gäbe. Doch sie hofft, dass es in ihrer Heimat, wo noch ein Teil ihrer Familie lebt, nie so weit kommen wird.
 
 
 
