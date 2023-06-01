@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Simon Schweizer"
-image = ""
+image = "/media/s.png"
 url = "/about/"
 +++
