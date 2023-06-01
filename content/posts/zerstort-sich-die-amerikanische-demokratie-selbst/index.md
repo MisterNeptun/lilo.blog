@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
 image = "bild2-1-1-.png"
-footnotes = "*Name auf Wunsch geändert, Name den Autoren bekannt"
+footnotes = "*Name auf Wunsch geändert, Name den Autoren bekannt\nTitelbild Quelle: Keystone SDA"
 +++
 {{<lead>}}
 
