@@ -3,6 +3,7 @@ title = "Zerstört sich die Amerikanische Demokratie selbst?"
 date = "2023-05-27"
 draft = false
 pinned = false
+tags = ["Deutsch", "Reportage"]
 footnotes = "*Name auf Wunsch geändert, Name den Autoren bekannt"
 +++
 {{<lead>}}
